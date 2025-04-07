@@ -21,7 +21,11 @@ author_profile: true
 - Nonetheless, it is important to not feel pressured into having to share one's private and personal information with unknown parties.
 
 # Are there privacy laws in Canada that will protect my health information?
-- In short, there are laws that aim to protect privacy. However, they are not perfect. It is also important to keep in mind that laws may differ depending on the province you live in. 
+- In short, there are laws that aim to protect privacy. However, they are not perfect. It is also important to keep in mind that laws may differ depending on the province you live in.
+
+# *Canada's Privacy Act* (Goverment of Canada, 2021)
+- This act is a federal law, which means it applies to all of Canada.
+- It states that if you are a Canadian citizen, or if you are physically within Canada, you have the right to gain access to your personal information that is kept by a federal institution. However, it also states that this request may be denied if it is not beneficial for the individual to read the medical record.
 
 ## *Personal Health Information Protection Act* (Ontario, 2004)
 - Some important highlights from this act include:
@@ -32,6 +36,8 @@ author_profile: true
 # References
 
 Government of Canada. (2024). Data profile: Primary care electronic medical records. [https://www.canada.ca/en/public-health/services/data/profile-primary-care-electronic-medical-records.html#a5]
+
+Government of Canada. (2021). Canada's privacy act. [https://www.justice.gc.ca/eng/csj-sjc/pa-lprp/pa-lprp.html]
 
 Office of the Privacy Comissioner of Canada. (2023). 2022-23 survey of Canadians on privacy related issues. [https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04]
 
