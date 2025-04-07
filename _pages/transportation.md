@@ -14,17 +14,36 @@ author_profile: true
 - Google is known for tracking its users, such as tracking user locaton (Hansen, 2025).
 - It is recommended to turn off Cookies to avoid being tracked (Hansen, 2025).
 
+# What are cookies?
+- Cookies are in our electric devices.
+- Cookies collects information from us, and track what we do online (Browne, 2024)
+
+# How do I turn cookies off? (Google, 2025)
+- Turn on your phone.
+- Open the Google Chrome app.
+- Click **Settings**.
+- Then, click **Site Settings > Third Party Cookies**
+- Click **Block third-party cookies**
+
 # Why am I being tracked in the first place?
 - Apps and platforms such as Google engage in tracking to create a profile of you and your interests so they can advertise better products to you in the hopes that you will spend money on them (Hansen, 2025).
 - Surveillance is commonly used to generate profit.
 
 # How can I protect my privacy while traveling abroad?
 - According to the *Canada's Privacy Act* which applies to all Canadian citizens, and those who are physically within Canada, the law is relevant when individuals either exit or enter Canada.
-
+- Note: your cybersecurity is at risk while traveling. It is important to be mindful when connecting to wifi networks in unfamiliar spaces, as hackers are more likely to steal information in these spaces (Government of Canada, 2024).
+- Tip: turn your wifi off to avoid getting automatically connected to unfamiliar wifi networks (Goverment of Canada, 2024).
+- Always remember to log out of any accounts, especially when using publicly available computers (Government of Canada, 2024).
 
 # References
 Binder, M. (2024). Leaked Google database affects cars caught on Google Maps, children's privacy, and more. *Mashable*. [https://mashable.com/article/leaked-google-privacy-incident-database]
 
+Browne, R. (2024). What Google's decision to keep cookies means for the internet. *CNBC*. https://www.cnbc.com/2024/07/23/what-google-decision-to-keep-cookies-means-for-the-internet.html
+
+Google. (2025). Turn cookies on or off. https://support.google.com/accounts/answer/61416?hl=en&co=GENIE.Platform%3DAndroid
+
 Government of Canada. (2021). Canada's privacy act. [https://www.justice.gc.ca/eng/csj-sjc/pa-lprp/pa-lprp.html]
+
+Goverment of Canada. (2024). Cyber security while travelling. https://travel.gc.ca/travelling/health-safety/cyber-safe
 
 Hansen, K. (2025). Can Google track your location when you're using a VPN. *Cyberghost*. [https://www.cyberghostvpn.com/privacyhub/how-does-google-know-your-location-with-vpn/]
