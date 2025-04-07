@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name 
-description              : &description "INF2317 Privacy Toolkit"
+description              : 
 url                      : https://nikkiandsharda.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nikkiandsharda/nikkiandsharda.github.io"
@@ -22,10 +22,10 @@ repository               : "nikkiandsharda/nikkiandsharda.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : 
-  name             : 
+  avatar           : "flag.png"
+  name             : "Privacy toolkit"
   pronouns         : # example: "she/her"  
-  bio              : "Students of INF2317"
+  bio              : "This toolkit is intended to help newcomers learn about ways in which they can protect their privacy in the current digital environment."
   location         : "Canada"
   employer         : 
   uri              : # URL
