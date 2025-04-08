@@ -32,8 +32,9 @@ author_profile: true
 # How can I protect my privacy while traveling abroad?
 - According to the *Canada's Privacy Act* which applies to all Canadian citizens, and those who are physically within Canada, the law is relevant when individuals either exit or enter Canada.
 - Note: your cybersecurity is at risk while traveling. It is important to be mindful when connecting to wifi networks in unfamiliar spaces, as hackers are more likely to steal information in these spaces (Government of Canada, 2024).
-- Tip: turn your wifi off to avoid getting automatically connected to unfamiliar wifi networks (Goverment of Canada, 2024).
+- Turn your wifi off to avoid getting automatically connected to unfamiliar wifi networks (Goverment of Canada, 2024). Alternatively, you can also set your phone so that it does not automatically connect to unknown wifi networks.
 - Always remember to log out of any accounts, especially when using publicly available computers (Government of Canada, 2024).
+- Be cautious when using bluetooth devices, such as pairing your phone with bluetooth enabled cars (Government of Canada, 2024). This is ultimately your choice, but be aware that the data from your phone that contains your personal information may get transferred to the car's system (Government of Canada, 2024). This could happen whilst connecting your phone's GPS system to the car's bluetooth system.
 
 # References
 Binder, M. (2024). Leaked Google database affects cars caught on Google Maps, children's privacy, and more. *Mashable*. [https://mashable.com/article/leaked-google-privacy-incident-database]
