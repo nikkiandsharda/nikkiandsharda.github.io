@@ -27,10 +27,13 @@ author_profile: true
 - This act is a federal law, which means it applies to all of Canada.
 - It states that if you are a Canadian citizen, or if you are physically within Canada, you have the right to gain access to your personal information that is kept by a federal institution. However, it also states that this request may be denied if it is not beneficial for the individual to read the medical record.
 
-## *Personal Health Information Protection Act* (Ontario, 2004)
+## *Personal Health Information Protection Act* 
 - Some important highlights from this act include:
-- This law is applicable to Ontario.
-- It claims that you have the right to withdraw your consent. Meaning, if you give permission for your information to be collected, you have the right to change your mind. However, your information is still allowed to be used *before* you withdrew your consent.
+- It claims that you have the right to withdraw your consent. Meaning, if you give permission for your information to be collected, you have the right to change your mind. However, your information is still allowed to be used *before* you withdrew your consent (Ontario, 2004).
+
+- You have the right to file a complaint to the Information Privacy Commissioner of Ontario (IPC) about any potential breaches (Information and Privacy Commissioner of Ontario, 2015)
+- You can also file a complaint in the event that you are denied a correction request (Information and Privacy Commissioner of Ontario, 2015).
+- Although Canada's Privacy Act states that in certain circumstances your request to view medical records may be denied, under the Personal Health Information Protection Act, you have the right to file a complaint if you are not given access to your personal health information (IPC, 2015).
 
 
 # References
@@ -39,6 +42,8 @@ Government of Canada. (2024). Data profile: Primary care electronic medical reco
 
 Government of Canada. (2021). Canada's privacy act. [https://www.justice.gc.ca/eng/csj-sjc/pa-lprp/pa-lprp.html]
 
-Office of the Privacy Comissioner of Canada. (2023). 2022-23 survey of Canadians on privacy related issues. [https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04]
+Information and Privacy Commissioner of Ontario. (2015). Frequently asked questions: Personal Health Information Protection Act. https://www.ipc.on.ca/sites/default/files/legacy/2015/11/phipa-faq.pdf
+
+Office of the Privacy Commissioner of Canada. (2023). 2022-23 survey of Canadians on privacy related issues. [https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04]
 
 Ontario. (2004). Personal health information protection act. [https://www.ontario.ca/laws/statute/04p03#BK31]
