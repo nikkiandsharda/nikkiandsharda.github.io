@@ -8,6 +8,8 @@ author_profile: true
 - We understand that medical appointments can be tricky to navigate. It is important to be aware of how your health information is taken by medical health professionals, and how your health information is stored.
 - Understanding privacy rights and privacy policies can be complex. An alarming 23% of Canadians state that they have poor knowledge in knowing how to protect their privacy (Office of the Privacy Commissioner of Canada, 2023).
 - In Canada, doctors typically enter information about your health onto a computer (Government of Canada, 2024).
+(Luong, 2024):
+[! doctor Image](../image/doctor.png)
 - Doctors keep personal information about your health, including but not limited to, information about test results, allergies, and prescriptions (Government of Canada, 2024).
 
 # How is this information used?
@@ -48,6 +50,8 @@ Government of Canada. (2024). Data profile: Primary care electronic medical reco
 Government of Canada. (2021). Canada's privacy act. [https://www.justice.gc.ca/eng/csj-sjc/pa-lprp/pa-lprp.html]
 
 Information and Privacy Commissioner of Ontario. (2015). Frequently asked questions: Personal Health Information Protection Act. https://www.ipc.on.ca/sites/default/files/legacy/2015/11/phipa-faq.pdf
+
+Luong, K. (2024). What is EMR? Featurs, examples and popular EMR systems. *Omniext*. [https://www.ominext.com/en/blog/what-is-emr-features-examples-and-use-cases](https://www.ominext.com/en/blog/what-is-emr-features-examples-and-use-cases)
 
 Office of the Privacy Commissioner of Canada. (2023). 2022-23 survey of Canadians on privacy related issues. [https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04]
 
