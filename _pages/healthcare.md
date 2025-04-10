@@ -9,7 +9,7 @@ author_profile: true
 - Understanding privacy rights and privacy policies can be complex. An alarming 23% of Canadians state that they have poor knowledge in knowing how to protect their privacy (Office of the Privacy Commissioner of Canada, 2023).
 - In Canada, doctors typically enter information about your health onto a computer (Government of Canada, 2024).
 (Luong, 2024):
-![doctor Image](../image/doctor.png)
+![doctor Image](../images/doctor.png)
 - Doctors keep personal information about your health, including but not limited to, information about test results, allergies, and prescriptions (Government of Canada, 2024).
 
 # How is this information used?
