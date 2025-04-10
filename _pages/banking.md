@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Banking information"
+title: "Banking Information"
 permalink: /bankinginformation/
 author_profile: true
 ---
