@@ -11,6 +11,7 @@ Some commonly used banking apps include:
 ![image](https://github.com/user-attachments/assets/0bd7268b-302e-4a51-8bea-e66232e2180a)
 
 🔐 Create a Strong Password
+✅ What to do:
 1. Use at least 12 characters
 – The longer your password, the better.
 2. Mix it up
@@ -29,7 +30,8 @@ MyDogLoves2Run! or CoffeeAt8AMisBest!
 🔐 Why it matters: A strong password helps keep your personal information safe by making it harder for hackers to access your accounts.
 ![image](https://github.com/user-attachments/assets/302e4c5e-86f0-4a9c-b33f-b4a59516901f)
 
-🔐 How to Turn On Multi-Factor Authentication (MFA)
+🔐 Turn On Multi-Factor Authentication (MFA)
+✅ What to do:
 1. Log in to your account
 – Open your banking app or website and sign in with your username and password.
 2. Go to your account settings or security settings
@@ -46,4 +48,24 @@ MyDogLoves2Run! or CoffeeAt8AMisBest!
 – You might need to scan a barcode or enter a code to connect your phone.
 6. Test it
 – The system will usually ask you to try logging in again using your second step.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_3rlQVXGKZc?si=xkqfNevhFMXN0vNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+📲 Keep Your Apps and Device Updated
+Updating your phone and apps is important for your safety. Updates often fix security problems that hackers could use to steal your information.
+✅ What to do:
+  Turn on automatic updates for your phone and banking apps.
+  Update your phone's operating system (iOS or Android) when you get a notification.
+  Update security software like antivirus apps if you use them.
+🔐 Why it matters:
+  Updates help protect your personal and financial information from new online threats.
+
+👀 Monitor Your Accounts Regularly
+It’s a good habit to check your bank account often—even if you don’t think anything is wrong.
+✅ What to do:
+  Log in regularly to your banking app or online account.
+  Look at your recent transactions and monthly statements.
+  Watch for anything that seems wrong or unfamiliar—like charges you didn’t make.
+🚨 If you see something suspicious:
+  Contact your bank right away.
+  Most banks in Canada offer fraud protection and can help you fix the issue.
+🔐 Why it matters:
+  Checking your account helps you catch fraud early and protect your money.
