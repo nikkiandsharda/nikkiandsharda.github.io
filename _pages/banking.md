@@ -51,11 +51,11 @@ MyDogLoves2Run! or CoffeeAt8AMisBest!
 
 📲 Keep Your Apps and Device Updated
 Updating your phone and apps is important for your safety. Updates often fix security problems that hackers could use to steal your information.
-✅ What to do:
+✅ Here’s what to do:
   Turn on automatic updates for your phone and banking apps.
   Update your phone's operating system (iOS or Android) when you get a notification.
   Update security software like antivirus apps if you use them.
-🔐 Why it matters:
+🛡️ Why it matters:
   Updates help protect your personal and financial information from new online threats.
 
 👀 Monitor Your Accounts Regularly
@@ -69,3 +69,17 @@ It’s a good habit to check your bank account often—even if you don’t think
   Most banks in Canada offer fraud protection and can help you fix the issue.
 🔐 Why it matters:
   Checking your account helps you catch fraud early and protect your money.
+
+  📧 Don’t Open Suspicious Emails or Links
+  Scammers often send fake emails or messages that promise money, gift cards, or prizes to trick you.
+🚫 What NOT to do:
+  Don’t click on links or download attachments from unknown senders.
+  Don’t give out personal or banking information in response to a message.
+  Be careful—even if the message looks real. Scammers can copy real logos and names.
+✅ What to do instead:
+  Delete the message if it looks suspicious.
+  If you're not sure, contact the company directly using their official website or phone number.
+  Report scam emails to report@spam.gc.ca (Canada’s spam reporting service).
+🔒 Why it matters:
+  These scams are designed to steal your money or personal information.
+
