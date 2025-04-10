@@ -40,3 +40,6 @@ Be careful about what you post online—some details should stay private.
 🔐 Why it matters:
 - Sharing too much can make it easier for scammers to steal your identity or target you.
 
+This profile contains **ALOT** of personal information. What would you remove?
+![image](https://github.com/user-attachments/assets/8cdfc925-9249-457e-961c-9f16736b2ff3)
+
