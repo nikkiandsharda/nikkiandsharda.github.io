@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Social media"
+title: "Social Media"
 permalink: /socialmedia/
 author_profile: true
 ---
