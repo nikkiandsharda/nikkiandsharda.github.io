@@ -8,10 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Banking information"
+  - title: "Banking Information"
     url: /bankinginformation/
 
-  - title: "Social media"
+  - title: "Social Media"
     url: /socialmedia/    
 
   - title: "Transportation"
