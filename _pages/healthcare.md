@@ -6,7 +6,7 @@ author_profile: true
 ---
 # What is Personal Health Information?
 - We understand that medical appointments can be tricky to navigate. It is important to be aware of how your health information is taken by medical health professionals, and how your health information is stored.
-- Understanding privacy rights and privacy policies can be complex. An alarming 23% of Canadians state that they have poor knowledge in knowing how to protect their privacy (Office of the Privacy Commissioner of Canada, 2023).
+- Understanding privacy rights and privacy policies can be complex. An alarming 23% of Canadians state that they have poor knowledge in knowing how to protect their privacy (Office of the Privacy Commissioner of Canada, 2023a).
 - In Canada, doctors typically enter information about your health onto a computer (Government of Canada, 2024).
 (Luong, 2024):
 ![doctor Image](../images/doctor.png)
@@ -29,6 +29,7 @@ author_profile: true
 # *Canada's Privacy Act* (Government of Canada, 2021)
 - This act is a federal law, which means it applies to all of Canada.
 - It states that if you are a Canadian citizen, or if you are physically within Canada, you have the right to gain access to your personal information that is kept by a federal institution. However, it also states that this request may be denied if it is not beneficial for the individual to read the medical record.
+- If you feel that you have unfairly been denied from accessing your records from an institution, you can file a complaint form by [clicking here](https://www.priv.gc.ca/en/report-a-concern/file-a-formal-privacy-complaint/file-a-complaint-about-a-federal-institution/)
 
 ## *Personal Health Information Protection Act* 
 - Some important highlights from this act include:
@@ -53,6 +54,8 @@ Information and Privacy Commissioner of Ontario. (2015). Frequently asked questi
 
 Luong, K. (2024). What is EMR? Featurs, examples and popular EMR systems. *Omniext*. [https://www.ominext.com/en/blog/what-is-emr-features-examples-and-use-cases](https://www.ominext.com/en/blog/what-is-emr-features-examples-and-use-cases)
 
-Office of the Privacy Commissioner of Canada. (2023). 2022-23 survey of Canadians on privacy related issues. [https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04](https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04)
+Office of the Privacy Commissioner of Canada. (2023a). 2022-23 survey of Canadians on privacy related issues. [https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04](https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04)
+
+Office of the Privacy Commissioner of Canada. (2023b). File a complaint about a federal institution. https://www.priv.gc.ca/en/report-a-concern/file-a-formal-privacy-complaint/file-a-complaint-about-a-federal-institution/
 
 Ontario. (2004). Personal health information protection act. [https://www.ontario.ca/laws/statute/04p03#BK31](https://www.ontario.ca/laws/statute/04p03#BK31)
