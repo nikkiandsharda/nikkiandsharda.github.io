@@ -45,14 +45,14 @@ author_profile: true
 # References
 Canadian Civil Liberties Association. (2025). Privacy law reform - CCLA. [https://ccla.org/our-work/privacy/privacy-law-reform/](https://ccla.org/our-work/privacy/privacy-law-reform/)
 
-Government of Canada. (2024). Data profile: Primary care electronic medical records. [https://www.canada.ca/en/public-health/services/data/profile-primary-care-electronic-medical-records.html#a5]
+Government of Canada. (2024). Data profile: Primary care electronic medical records. [https://www.canada.ca/en/public-health/services/data/profile-primary-care-electronic-medical-records.html#a5](https://www.canada.ca/en/public-health/services/data/profile-primary-care-electronic-medical-records.html#a5)
 
-Government of Canada. (2021). Canada's privacy act. [https://www.justice.gc.ca/eng/csj-sjc/pa-lprp/pa-lprp.html]
+Government of Canada. (2021). Canada's privacy act. [https://www.justice.gc.ca/eng/csj-sjc/pa-lprp/pa-lprp.html](https://www.justice.gc.ca/eng/csj-sjc/pa-lprp/pa-lprp.html)
 
-Information and Privacy Commissioner of Ontario. (2015). Frequently asked questions: Personal Health Information Protection Act. https://www.ipc.on.ca/sites/default/files/legacy/2015/11/phipa-faq.pdf
+Information and Privacy Commissioner of Ontario. (2015). Frequently asked questions: Personal Health Information Protection Act. [https://www.ipc.on.ca/sites/default/files/legacy/2015/11/phipa-faq.pdf](https://www.ipc.on.ca/sites/default/files/legacy/2015/11/phipa-faq.pdf)
 
-Luong, K. (2024). What is EMR? Featurs, examples and popular EMR systems. *Omniext*. [https://www.ominext.com/en/blog/what-is-emr-features-examples-and-use-cases](https://www.ominext.com/en/blog/what-is-emr-features-examples-and-use-cases)
+Luong, K. (2024). What is EMR? Featurs, examples and popular EMR systems. *Omniext*. [https://www.ominext.com/en/blog/what-is-emr-features-examples-and-use-cases](https://www.ominext.com/en/blog/what-is-emr-features-examples-and-use-cases](https://www.ominext.com/en/blog/what-is-emr-features-examples-and-use-cases](https://www.ominext.com/en/blog/what-is-emr-features-examples-and-use-cases)
 
-Office of the Privacy Commissioner of Canada. (2023). 2022-23 survey of Canadians on privacy related issues. [https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04]
+Office of the Privacy Commissioner of Canada. (2023). 2022-23 survey of Canadians on privacy related issues. [https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04](https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04)
 
-Ontario. (2004). Personal health information protection act. [https://www.ontario.ca/laws/statute/04p03#BK31]
+Ontario. (2004). Personal health information protection act. [https://www.ontario.ca/laws/statute/04p03#BK31](https://www.ontario.ca/laws/statute/04p03#BK31)
