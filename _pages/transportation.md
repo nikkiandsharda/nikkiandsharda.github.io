@@ -58,7 +58,7 @@ Google. (2025). Turn cookies on or off. [https://support.google.com/accounts/ans
 
 Government of Canada. (2021). Canada's privacy act. [https://www.justice.gc.ca/eng/csj-sjc/pa-lprp/pa-lprp.html](https://www.justice.gc.ca/eng/csj-sjc/pa-lprp/pa-lprp.html)
 
-Goverment of Canada. (2024). Cyber security while travelling. [https://travel.gc.ca/travelling/health-safety/cyber-safe](https://travel.gc.ca/travelling/health-safety/cyber-safe)
+Government of Canada. (2024). Cyber security while travelling. [https://travel.gc.ca/travelling/health-safety/cyber-safe](https://travel.gc.ca/travelling/health-safety/cyber-safe)
 
 Hansen, K. (2025). Can Google track your location when you're using a VPN. *Cyberghost*. [https://www.cyberghostvpn.com/privacyhub/how-does-google-know-your-location-with-vpn/](https://www.cyberghostvpn.com/privacyhub/how-does-google-know-your-location-with-vpn/)
 
