@@ -18,7 +18,10 @@ author_profile: true
 
 # What are cookies?
 - Cookies are in our electric devices.
-- Cookies collects information from us, and track what we do online (Browne, 2024)
+- Cookies collects information from us, and track what we do online (Browne, 2024).
+- Websites and apps may ask if you consent to using cookies (Owen-Jones, 2024).
+![Cookies Image](../images/cookies.png)
+  
 
 # How do I turn cookies off? (Google, 2025)
 - Turn on your phone.
@@ -55,5 +58,7 @@ Government of Canada. (2021). Canada's privacy act. [https://www.justice.gc.ca/e
 Goverment of Canada. (2024). Cyber security while travelling. [https://travel.gc.ca/travelling/health-safety/cyber-safe](https://travel.gc.ca/travelling/health-safety/cyber-safe)
 
 Hansen, K. (2025). Can Google track your location when you're using a VPN. *Cyberghost*. [https://www.cyberghostvpn.com/privacyhub/how-does-google-know-your-location-with-vpn/](https://www.cyberghostvpn.com/privacyhub/how-does-google-know-your-location-with-vpn/)
+
+Owen-Jones, J. (2024). Understanding internet cookies and what they do. *FutureTheory*. [https://futuretheory.co/understanding-internet-cookies/](https://futuretheory.co/understanding-internet-cookies/)
 
 Office of the Privacy Commissioner of Canada. (2019). Accessing your personal information - Federal governement. [https://www.priv.gc.ca/en/privacy-topics/accessing-personal-information/api_gov/#fedgov](https://www.priv.gc.ca/en/privacy-topics/accessing-personal-information/api_gov/#fedgov)
