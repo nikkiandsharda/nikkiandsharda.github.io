@@ -10,7 +10,8 @@ Using banking apps can make managing your money easier, but it’s important to 
 Some commonly used banking apps include:
 ![image](https://github.com/user-attachments/assets/0bd7268b-302e-4a51-8bea-e66232e2180a)
 
-🔐 Create a Strong Password
+🔐 **Create a Strong Password**
+
 ✅ What to do:
 1. Use at least 12 characters
 – The longer your password, the better.
@@ -25,12 +26,17 @@ Some commonly used banking apps include:
 MyDogLoves2Run! or CoffeeAt8AMisBest!
 6. Use a password manager (optional)
 – Apps like Bitwarden or 1Password can safely store and create strong passwords for you.
+
 ✅ Example of a strong password: B3tter!Life2025$
+
 ❌ Weak password example: 123456, password, Toronto2023
+
 🔐 Why it matters: A strong password helps keep your personal information safe by making it harder for hackers to access your accounts.
+
 ![image](https://github.com/user-attachments/assets/302e4c5e-86f0-4a9c-b33f-b4a59516901f)
 
-🔐 Turn On Multi-Factor Authentication (MFA)
+🔐 **Turn On Multi-Factor Authentication (MFA)**
+
 ✅ What to do:
 1. Log in to your account
 – Open your banking app or website and sign in with your username and password.
@@ -49,37 +55,56 @@ MyDogLoves2Run! or CoffeeAt8AMisBest!
 6. Test it
 – The system will usually ask you to try logging in again using your second step.
 
-📲 Keep Your Apps and Device Updated
+📲 **Keep Your Apps and Device Updated**
+
 Updating your phone and apps is important for your safety. Updates often fix security problems that hackers could use to steal your information.
+
 ✅ Here’s what to do:
+ 
   Turn on automatic updates for your phone and banking apps.
+  
   Update your phone's operating system (iOS or Android) when you get a notification.
+ 
   Update security software like antivirus apps if you use them.
+
 🛡️ Why it matters:
+ 
   Updates help protect your personal and financial information from new online threats.
 
-👀 Monitor Your Accounts Regularly
+👀 **Monitor Your Accounts Regularly**
+
 It’s a good habit to check your bank account often—even if you don’t think anything is wrong.
+
 ✅ What to do:
+ 
   Log in regularly to your banking app or online account.
+  
   Look at your recent transactions and monthly statements.
+ 
   Watch for anything that seems wrong or unfamiliar—like charges you didn’t make.
+
 🚨 If you see something suspicious:
+
   Contact your bank right away.
+ 
   Most banks in Canada offer fraud protection and can help you fix the issue.
+
 🔐 Why it matters:
   Checking your account helps you catch fraud early and protect your money.
 
-  📧 Don’t Open Suspicious Emails or Links
+📧 **Don’t Open Suspicious Emails or Links**
   Scammers often send fake emails or messages that promise money, gift cards, or prizes to trick you.
+
 🚫 What NOT to do:
   Don’t click on links or download attachments from unknown senders.
   Don’t give out personal or banking information in response to a message.
   Be careful—even if the message looks real. Scammers can copy real logos and names.
+
 ✅ What to do instead:
   Delete the message if it looks suspicious.
   If you're not sure, contact the company directly using their official website or phone number.
   Report scam emails to report@spam.gc.ca (Canada’s spam reporting service).
+
 🔒 Why it matters:
   These scams are designed to steal your money or personal information.
 
