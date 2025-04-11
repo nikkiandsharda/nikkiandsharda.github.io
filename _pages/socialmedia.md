@@ -7,6 +7,7 @@ author_profile: true
 Social media is a fun way to stay connected with friends and family, but it’s important to know how to protect your personal information online.
 
 ![image](https://github.com/user-attachments/assets/d83eb06d-751d-4ff2-b72a-c5c38bff1145)
+(Vumedialab, 2021)
 
 Here are some simple tips to help you stay safe while using social media in Canada.
 
@@ -24,7 +25,7 @@ Setting your social media account to private helps control who can see what you 
 - This helps protect your personal life and information from strangers or scammers.
 
   ![image](https://github.com/user-attachments/assets/d8199b75-8adf-4002-817b-0d2edbef1357)
-
+(Ashjaee, 2021)
 
 # 🙈 **Limit the Personal Information You Share**
 Be careful about what you post online—some details should stay private.
@@ -45,6 +46,7 @@ Be careful about what you post online—some details should stay private.
 
 This profile contains **ALOT** of personal information. What would you remove?
 ![image](https://github.com/user-attachments/assets/8cdfc925-9249-457e-961c-9f16736b2ff3)
+(People, 2024)
 
 # 🔐 **Create a Strong Password**
 
@@ -70,7 +72,7 @@ MyDogLoves2Run! or CoffeeAt8AMisBest!
 🔐 Why it matters: A strong password helps keep your personal information safe by making it harder for hackers to access your accounts.
 
 ![image](https://github.com/user-attachments/assets/302e4c5e-86f0-4a9c-b33f-b4a59516901f)
-
+(Omer, n.d.) 
 # 🔐 **Turn On Multi-Factor Authentication (MFA)**
 
 ✅ What to do:
@@ -107,6 +109,7 @@ Scammers sometimes send fake messages or links through social media to trick you
 - These links can steal your personal info or install harmful software on your device.
 
 ![image](https://github.com/user-attachments/assets/997eb3d6-2e20-499e-ab82-f6810caa0827)
+(LaRose, 2025)
 
 # 🎮 **Be Careful with Quizzes and Games on Social Media**
 Some fun-looking quizzes or games (like “What’s your celebrity match?”) might ask for access to your profile, photos, or friend list.
@@ -122,7 +125,7 @@ Some fun-looking quizzes or games (like “What’s your celebrity match?”) mi
 🔐 Why it matters:
 - Some of these apps are designed to collect your personal data and share it without your permission.
 
-Example of an online quiz
+Example of an online quiz [https://www.buzzfeed.com/abbyzinman/teen-movies-iconic-outfits-trivia-quiz](Buzzfeed):
 
 <img width="595" alt="Screenshot 2025-04-11 at 9 29 02 AM" src="https://github.com/user-attachments/assets/f9cd4807-8b72-48db-af8b-cbf68d64eafc" />
 
@@ -156,22 +159,23 @@ Sharing your location on social media might seem fun, but it can also reveal whe
 - Keeping your location private helps protect you from stalking, theft, or unwanted attention.
 
 ![image](https://github.com/user-attachments/assets/cfc940b6-3c03-4510-98a1-ea86ba0a189b)
+(O'Donnell, 2021)
 
-# References
-Ahmad, T. (2023, January 17). How to create a strong password. CreativeON. https://creativeon.com/blog/web-security/how-to-create-a-strong-password/
+# References & Bibliography
+Omer, F. (n.d.). How to create a strong password. *CreativeON*. [https://creativeon.com/blog/web-security/how-to-create-a-strong-password/](https://creativeon.com/blog/web-security/how-to-create-a-strong-password/)
 
-Ashjaee, N. (2021, December 1). Here’s how to make your instagram profile private. Lifewire. https://www.lifewire.com/make-instagram-account-private-3485850
+Ashjaee, N. (2021, December 1). Here’s how to make your Instagram profile private. *Lifewire*. [https://www.lifewire.com/make-instagram-account-private-3485850](https://www.lifewire.com/make-instagram-account-private-3485850)
 
-Government of Canada. (2021). Cyber security checklist. Get Cyber Safe. https://www.getcybersafe.gc.ca/en/resources/cyber-security-checklist?
+Government of Canada. (2021). Cyber security checklist. Get Cyber Safe. [https://www.getcybersafe.gc.ca/en/resources/cyber-security-checklist?](https://www.getcybersafe.gc.ca/en/resources/cyber-security-checklist?)
 
-Government of Canada. (2022). Don’t take the bait: Recognize and avoid phishing attacks - ITSAP.00.101 - canadian centre for cyber security. Canadian Centre for Cyber Security. https://www.cyber.gc.ca/en/guidance/dont-take-bait-recognize-and-avoid-phishing-attacks?
+Government of Canada. (2022). Don’t take the bait: Recognize and avoid phishing attacks - ITSAP.00.101 - Canadian centre for cyber security. *Canadian Centre for Cyber Security*. [https://www.cyber.gc.ca/en/guidance/dont-take-bait-recognize-and-avoid-phishing-attacks?](https://www.cyber.gc.ca/en/guidance/dont-take-bait-recognize-and-avoid-phishing-attacks?)
 
-LaRose, A. (2025). Top 8 instagram scams to AVOID. Scott Social Marketing. https://www.scottsocialmarketing.com/blog/instagram-scams-to-avoid
+LaRose, A. (2025). Top 8 Instagram scams to AVOID. Scott Social Marketing. [https://www.scottsocialmarketing.com/blog/instagram-scams-to-avoid](https://www.scottsocialmarketing.com/blog/instagram-scams-to-avoid)
 
-O’Donnell, A. (2021). How to remove geotags from iPhone pictures. Lifewire. https://www.lifewire.com/remove-geotags-from-pictures-taken-with-your-iphone-2487322
+O’Donnell, A. (2021). How to remove geotags from iPhone pictures. *Lifewire*. [https://www.lifewire.com/remove-geotags-from-pictures-taken-with-your-iphone-2487322](https://www.lifewire.com/remove-geotags-from-pictures-taken-with-your-iphone-2487322)
 
-Office of the Privacy Commissioner of Canada. (2019). Staying safe on social media. Office of the Privacy Commissioner of Canada. https://www.priv.gc.ca/en/privacy-topics/technology/online-privacy-tracking-cookies/online-privacy/social-media/02_05_d_74_sn/
+Office of the Privacy Commissioner of Canada. (2019). Staying safe on social media. [https://www.priv.gc.ca/en/privacy-topics/technology/online-privacy-tracking-cookies/online-privacy/social-media/02_05_d_74_sn/](https://www.priv.gc.ca/en/privacy-topics/technology/online-privacy-tracking-cookies/online-privacy/social-media/02_05_d_74_sn/)
 
-People. (2024, August 22). Profile overview. People. https://pcopeople.zendesk.com/hc/en-us/articles/204263114-Profile-Overview
+People. (2024, August 22). Profile overview. [https://pcopeople.zendesk.com/hc/en-us/articles/204263114-Profile-Overview](https://pcopeople.zendesk.com/hc/en-us/articles/204263114-Profile-Overview)
 
-Vumedialab. (2021, October 4). Top 7 popular social media platforms . Vumedialab. https://www.vumedialab.com/post/top-7-popular-social-media-platforms
+Vumedialab. (2021, October 4). Top 7 popular social media platforms . *Vumedialab*. [https://www.vumedialab.com/post/top-7-popular-social-media-platforms](https://www.vumedialab.com/post/top-7-popular-social-media-platforms)
