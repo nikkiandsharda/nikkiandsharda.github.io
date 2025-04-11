@@ -124,13 +124,13 @@ Example of a bank statement, look for unusual transactions:
 🔐 Why it matters:
 - This helps keep your banking apps and personal information safe, even if someone else gets your device.
 
-(Beausoleil, 2023):
 ![image](https://github.com/user-attachments/assets/e9b42a99-35c0-415e-8573-7f2fca6130c3)
+(Beausoleil, 2023)
 
 # References
-Omer, F. (n.d.). How to create a strong password . *CreativeON*. [https://creativeon.com/blog/web-security/how-to-create-a-strong-password/](https://creativeon.com/blog/web-security/how-to-create-a-strong-password/) 
-
 Angela. (2022, September 19). Bank statements - how and why to read yours. *Wealth Meta*. [https://www.wealthmeta.com/blog/bank-statements-how-and-why-to-read-yours](https://www.wealthmeta.com/blog/bank-statements-how-and-why-to-read-yours)
+
+Omer, F. (n.d.). How to create a strong password . *CreativeON*. [https://creativeon.com/blog/web-security/how-to-create-a-strong-password/](https://creativeon.com/blog/web-security/how-to-create-a-strong-password/) 
 
 Beausoleil, M. (2023, October 5). It’s been six year, and Touch ID is still superior to Face ID. *Medium*. [https://beausoleil.medium.com/its-been-six-year-and-touch-id-is-still-superior-to-face-id-a15629ce855d](https://beausoleil.medium.com/its-been-six-year-and-touch-id-is-still-superior-to-face-id-a15629ce855d)
 
