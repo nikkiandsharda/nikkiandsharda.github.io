@@ -124,7 +124,7 @@ Example of a bank statement, look for unusual transactions.
 ![image](https://github.com/user-attachments/assets/e9b42a99-35c0-415e-8573-7f2fca6130c3)
 
 # References
-Ahmad, T. (2023, January 17). How to create a strong password . CreativeON. https://creativeon.com/blog/web-security/how-to-create-a-strong-password/
+Ahmad, T. (2023, January 17). How to create a strong password . CreativeON. https://creativeon.com/blog/web-security/how-to-create-a-strong-password/ 
 
 Angela. (2022, September 19). Bank statements - how and why to read yours. Wealth Meta. https://www.wealthmeta.com/blog/bank-statements-how-and-why-to-read-yours
 
