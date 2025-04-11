@@ -62,6 +62,6 @@ Government of Canada. (2024). Cyber security while travelling. [https://travel.g
 
 Hansen, K. (2025). Can Google track your location when you're using a VPN. *Cyberghost*. [https://www.cyberghostvpn.com/privacyhub/how-does-google-know-your-location-with-vpn/](https://www.cyberghostvpn.com/privacyhub/how-does-google-know-your-location-with-vpn/)
 
-Owen-Jones, J. (2024). Understanding internet cookies and what they do. *FutureTheory*. [https://futuretheory.co/understanding-internet-cookies/](https://futuretheory.co/understanding-internet-cookies/)
-
 Office of the Privacy Commissioner of Canada. (2019). Accessing your personal information - Federal governement. [https://www.priv.gc.ca/en/privacy-topics/accessing-personal-information/api_gov/#fedgov](https://www.priv.gc.ca/en/privacy-topics/accessing-personal-information/api_gov/#fedgov)
+
+Owen-Jones, J. (2024). Understanding internet cookies and what they do. *FutureTheory*. [https://futuretheory.co/understanding-internet-cookies/](https://futuretheory.co/understanding-internet-cookies/)
