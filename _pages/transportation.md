@@ -45,7 +45,7 @@ author_profile: true
 - Note: your cybersecurity is at risk while traveling. It is important to be mindful when connecting to Wi-Fi networks in unfamiliar spaces, as hackers are more likely to steal information in these spaces (Government of Canada, 2024).
 - Turn your Wi-Fi off to avoid getting automatically connected to unfamiliar Wi-Fi networks (Government of Canada, 2024). Alternatively, you can also update the settings on your phone so that it does not automatically connect to unknown Wi-Fi networks.
 - Always remember to log out of any accounts, especially when using publicly available computers abroad (Government of Canada, 2024).
-- Be cautious when using Bluetooth devices, such as pairing your phone with Bluetooth enabled cars (Government of Canada, 2024). This is ultimately your choice but be aware that the data from your phone that contains your personal information may get transferred to the car's system (Government of Canada, 2024). This could happen whilst connecting your phone's GPS system to the car's Bluetooth system.
+- Be careful when using Bluetooth devices, such as pairing your phone with cars that have Bluetooth (Government of Canada, 2024). This is ultimately your choice but be aware that the data from your phone that contains your personal information may get transferred to the car's system (Government of Canada, 2024). This could happen whilst connecting your phone's GPS system to the car's Bluetooth system.
 
 # References & Bibliography
 Apple. (2025). Google Maps on the App store. [https://apps.apple.com/us/app/google-maps/id585027354](https://apps.apple.com/us/app/google-maps/id585027354)
