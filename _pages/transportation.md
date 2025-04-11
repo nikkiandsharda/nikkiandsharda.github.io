@@ -20,7 +20,7 @@ author_profile: true
 
 # 📳 What are cookies?
 - Cookies are in our electric devices.
-- Cookies collects information from us, and track what we do online (Browne, 2024).
+- It collects information from us, and it tracks what we do on our devices (Browne, 2024).
 - Websites and apps may ask if you consent to using cookies (Owen-Jones, 2024):
 ![Cookies Image](../images/cookies.png)
 
