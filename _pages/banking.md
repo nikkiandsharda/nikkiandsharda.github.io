@@ -35,7 +35,7 @@ MyDogLoves2Run! or CoffeeAt8AMisBest!
 🔐 Why it matters: A strong password helps keep your personal information safe by making it harder for hackers to access your accounts.
 
 ![image](https://github.com/user-attachments/assets/302e4c5e-86f0-4a9c-b33f-b4a59516901f)
-(Ahmad, 2023)
+(Omer, n.d.)
 
 # 🔐 **Turn On Multi-Factor Authentication (MFA)**
 
@@ -128,7 +128,7 @@ Example of a bank statement, look for unusual transactions:
 ![image](https://github.com/user-attachments/assets/e9b42a99-35c0-415e-8573-7f2fca6130c3)
 
 # References
-Ahmad, T. (2023, January 17). How to create a strong password . *CreativeON*. [https://creativeon.com/blog/web-security/how-to-create-a-strong-password/](https://creativeon.com/blog/web-security/how-to-create-a-strong-password/) 
+Omer, F. (n.d.). How to create a strong password . *CreativeON*. [https://creativeon.com/blog/web-security/how-to-create-a-strong-password/](https://creativeon.com/blog/web-security/how-to-create-a-strong-password/) 
 
 Angela. (2022, September 19). Bank statements - how and why to read yours. *Wealth Meta*. [https://www.wealthmeta.com/blog/bank-statements-how-and-why-to-read-yours](https://www.wealthmeta.com/blog/bank-statements-how-and-why-to-read-yours)
 
