@@ -83,6 +83,11 @@ It’s a good habit to check your bank account often—even if you don’t think
 🔐 Why it matters:
 - Checking your account helps you catch fraud early and protect your money.
 
+Example of a bank statement, look for unusual transactions. 
+
+![image](https://github.com/user-attachments/assets/8a0793b7-6283-4abe-bbce-fbf40788127c)
+
+
 # 📧 **Don’t Open Suspicious Emails or Links**
   
   Scammers often send fake emails or messages that promise money, gift cards, or prizes to trick you.
