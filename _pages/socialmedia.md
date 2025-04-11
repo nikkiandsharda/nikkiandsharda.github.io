@@ -157,3 +157,21 @@ Sharing your location on social media might seem fun, but it can also reveal whe
 
 ![image](https://github.com/user-attachments/assets/cfc940b6-3c03-4510-98a1-ea86ba0a189b)
 
+# References
+Ahmad, T. (2023, January 17). How to create a strong password. CreativeON. https://creativeon.com/blog/web-security/how-to-create-a-strong-password/
+
+Ashjaee, N. (2021, December 1). Here’s how to make your instagram profile private. Lifewire. https://www.lifewire.com/make-instagram-account-private-3485850
+
+Government of Canada. (2021). Cyber security checklist. Get Cyber Safe. https://www.getcybersafe.gc.ca/en/resources/cyber-security-checklist?
+
+Government of Canada. (2022). Don’t take the bait: Recognize and avoid phishing attacks - ITSAP.00.101 - canadian centre for cyber security. Canadian Centre for Cyber Security. https://www.cyber.gc.ca/en/guidance/dont-take-bait-recognize-and-avoid-phishing-attacks?
+
+LaRose, A. (2025). Top 8 instagram scams to AVOID. Scott Social Marketing. https://www.scottsocialmarketing.com/blog/instagram-scams-to-avoid
+
+O’Donnell, A. (2021). How to remove geotags from iPhone pictures. Lifewire. https://www.lifewire.com/remove-geotags-from-pictures-taken-with-your-iphone-2487322
+
+Office of the Privacy Commissioner of Canada. (2019). Staying safe on social media. Office of the Privacy Commissioner of Canada. https://www.priv.gc.ca/en/privacy-topics/technology/online-privacy-tracking-cookies/online-privacy/social-media/02_05_d_74_sn/
+
+People. (2024, August 22). Profile overview. People. https://pcopeople.zendesk.com/hc/en-us/articles/204263114-Profile-Overview
+
+Vumedialab. (2021, October 4). Top 7 popular social media platforms . Vumedialab. https://www.vumedialab.com/post/top-7-popular-social-media-platforms
