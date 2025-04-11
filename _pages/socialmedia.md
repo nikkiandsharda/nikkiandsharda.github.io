@@ -23,6 +23,9 @@ Setting your social media account to private helps control who can see what you 
 🔒 Why it matters:
 - This helps protect your personal life and information from strangers or scammers.
 
+  ![image](https://github.com/user-attachments/assets/d8199b75-8adf-4002-817b-0d2edbef1357)
+
+
 # 🙈 **Limit the Personal Information You Share**
 Be careful about what you post online—some details should stay private.
 
@@ -119,6 +122,10 @@ Some fun-looking quizzes or games (like “What’s your celebrity match?”) mi
 🔐 Why it matters:
 - Some of these apps are designed to collect your personal data and share it without your permission.
 
+Example of an online quiz
+
+<img width="595" alt="Screenshot 2025-04-11 at 9 29 02 AM" src="https://github.com/user-attachments/assets/f9cd4807-8b72-48db-af8b-cbf68d64eafc" />
+
 # 🧹 Review Old Posts and Clean Up Your Profile
 It’s a good idea to go back and check what you’ve shared in the past—you might find things that reveal too much personal information.
 
@@ -147,3 +154,6 @@ Sharing your location on social media might seem fun, but it can also reveal whe
 
 🔐 Why it matters:
 - Keeping your location private helps protect you from stalking, theft, or unwanted attention.
+
+![image](https://github.com/user-attachments/assets/cfc940b6-3c03-4510-98a1-ea86ba0a189b)
+
