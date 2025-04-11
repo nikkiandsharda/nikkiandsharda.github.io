@@ -17,4 +17,4 @@ redirect_from:
 
 # 📱 Privacy Policy issue
 - As we continue to live in an increasingly digitized world, most of our sensitive and private information are either online or held in the form of electronic records.
-- We understand it can be difficult to comprehend how your private information is utilized and seen by others. We aim to provide some insight on how you can protect your private information in the digital sphere.
+- We understand it can be difficult to comprehend how your private information is utilized and seen by others. We aim to provide some insight on how you can protect your private information in the digital sphere by giving concise information about privacy laws within Canada and Ontario, as well as tips and tricks on how to protect your private information from being stolen.
