@@ -6,7 +6,7 @@ author_profile: true
 ---
 # 🤔 What is Personal Health Information?
 - We understand that medical appointments can be tricky to navigate. It is important to be aware of how your health information is taken by medical health professionals, and how your health information is stored.
-- Understanding privacy rights and privacy policies can be complex. An alarming 23% of Canadians state that they have poor knowledge in knowing how to protect their privacy (Office of the Privacy Commissioner of Canada, 2023a).
+- Understanding privacy rights and privacy policies can be complex. An alarming 23% of Canadians state that they have poor knowledge in understanding how to protect their privacy (Office of the Privacy Commissioner of Canada, 2023a).
 - In Canada, doctors typically enter information about your health onto a computer (Government of Canada, 2024).
 (Luong, 2024):
 ![doctor Image](../images/doctor.png)
