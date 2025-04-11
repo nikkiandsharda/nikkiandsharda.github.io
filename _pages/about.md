@@ -10,7 +10,7 @@ redirect_from:
 # 👋 Welcome to the digital privacy policy toolkit!
 - This website is intended to help newcomers navigate the ways in which they can protect their privacy regarding matters pertaining to banking information, social media, transportation, and healthcare.
 - Navigate the website using the tabs above to find information about how you can protect your privacy.
-- You can also check out the resources tab for further information from scholarly literature, and policy organizations.
+- You can also check out the resources tab for further information!
 
 # ❓ Who is this toolkit for?
 - We encourage all newcomers to utilize this toolkit, whether they are already in Ontario or are planning to make a move here in the near future!
