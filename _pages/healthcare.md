@@ -52,7 +52,7 @@ Government of Canada. (2021). Canada's privacy act. [https://www.justice.gc.ca/e
 
 Information and Privacy Commissioner of Ontario. (2015). Frequently asked questions: Personal Health Information Protection Act. [https://www.ipc.on.ca/sites/default/files/legacy/2015/11/phipa-faq.pdf](https://www.ipc.on.ca/sites/default/files/legacy/2015/11/phipa-faq.pdf)
 
-Luong, K. (2024). What is EMR? Featurs, examples and popular EMR systems. *Omniext*. [https://www.ominext.com/en/blog/what-is-emr-features-examples-and-use-cases](https://www.ominext.com/en/blog/what-is-emr-features-examples-and-use-cases)
+Luong, K. (2024). What is EMR? Features, examples and popular EMR systems. *Omniext*. [https://www.ominext.com/en/blog/what-is-emr-features-examples-and-use-cases](https://www.ominext.com/en/blog/what-is-emr-features-examples-and-use-cases)
 
 Office of the Privacy Commissioner of Canada. (2023a). 2022-23 survey of Canadians on privacy related issues. [https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04](https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04)
 
