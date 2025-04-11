@@ -100,7 +100,7 @@ MyDogLoves2Run! or CoffeeAt8AMisBest!
 - Test it
 – The system will usually ask you to try logging in again using your second step.
 
-(Government of Canada, 2021)
+(Canadian Centre for Cybersecurity, 2020)
 
 # ⚠️ **Don’t Open Suspicious Links from Unknown Senders**
 Scammers sometimes send fake messages or links through social media to trick you.
@@ -182,6 +182,8 @@ Sharing your location on social media might seem fun, but it can also reveal whe
 Aguilar, N. (2023, February 22). *You Might Be Giving Up Your Location When You Share Photos on Your iPhone.* CNET. [https://www.cnet.com/tech/mobile/you-might-be-giving-up-your-location-when-you-share-photos-on-your-iphone/](https://www.cnet.com/tech/mobile/you-might-be-giving-up-your-location-when-you-share-photos-on-your-iphone/)
 
 Ashjaee, N. (2021, December 1). Here’s how to make your Instagram profile private. *Lifewire*. [https://www.lifewire.com/make-instagram-account-private-3485850](https://www.lifewire.com/make-instagram-account-private-3485850)
+
+Canadian Centre for Cyber Security. (2020, September 10). How to use online banking securely - ITSAP.00.080. Government of Canada. [https://www.cyber.gc.ca/en/guidance/how-use-online-banking-securely-itsap00080](https://www.cyber.gc.ca/en/guidance/how-use-online-banking-securely-itsap00080)
 
 Government of Canada. (2021). Cyber security checklist. Get Cyber Safe. [https://www.getcybersafe.gc.ca/en/resources/cyber-security-checklist?](https://www.getcybersafe.gc.ca/en/resources/cyber-security-checklist?)
 
