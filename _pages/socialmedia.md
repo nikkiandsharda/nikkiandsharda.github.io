@@ -24,6 +24,8 @@ Setting your social media account to private helps control who can see what you 
 🔒 Why it matters:
 - This helps protect your personal life and information from strangers or scammers.
 
+(Office of the Privacy Commissioner of Canada, 2019)
+
   ![image](https://github.com/user-attachments/assets/d8199b75-8adf-4002-817b-0d2edbef1357)
 (Ashjaee, 2021)
 
@@ -71,8 +73,11 @@ MyDogLoves2Run! or CoffeeAt8AMisBest!
 
 🔐 Why it matters: A strong password helps keep your personal information safe by making it harder for hackers to access your accounts.
 
+(Office of the Privacy Commissioner of Canada, 2019)
+
 ![image](https://github.com/user-attachments/assets/302e4c5e-86f0-4a9c-b33f-b4a59516901f)
 (Omer, n.d.) 
+
 # 🔐 **Turn On Multi-Factor Authentication (MFA)**
 
 ✅ What to do:
@@ -93,6 +98,8 @@ MyDogLoves2Run! or CoffeeAt8AMisBest!
 - Test it
 – The system will usually ask you to try logging in again using your second step.
 
+(Government of Canada, 2021)
+
 # ⚠️ **Don’t Open Suspicious Links from Unknown Senders**
 Scammers sometimes send fake messages or links through social media to trick you.
 
@@ -107,6 +114,8 @@ Scammers sometimes send fake messages or links through social media to trick you
 
 🔐 Why it matters:
 - These links can steal your personal info or install harmful software on your device.
+
+(Office of the Privacy Commissioner of Canada, 2019)
 
 ![image](https://github.com/user-attachments/assets/997eb3d6-2e20-499e-ab82-f6810caa0827)
 (LaRose, 2025)
@@ -125,7 +134,9 @@ Some fun-looking quizzes or games (like “What’s your celebrity match?”) mi
 🔐 Why it matters:
 - Some of these apps are designed to collect your personal data and share it without your permission.
 
-Example of an online quiz [https://www.buzzfeed.com/abbyzinman/teen-movies-iconic-outfits-trivia-quiz](Buzzfeed):
+(Government of Canada, 2022)
+
+Example of an online quiz: [https://www.buzzfeed.com/abbyzinman/teen-movies-iconic-outfits-trivia-quiz](Buzzfeed)
 
 <img width="595" alt="Screenshot 2025-04-11 at 9 29 02 AM" src="https://github.com/user-attachments/assets/f9cd4807-8b72-48db-af8b-cbf68d64eafc" />
 
@@ -143,6 +154,8 @@ It’s a good idea to go back and check what you’ve shared in the past—you m
 🔐 Why it matters:
 - Cleaning up your digital footprint helps you stay safe and protect your privacy—especially if you're job hunting or meeting new people online.
 
+(Office of the Privacy Commissioner of Canada, 2019)
+
 # 📍 Turn Off Location Tagging – Protect Where You Go
 Sharing your location on social media might seem fun, but it can also reveal where you live, work, or visit often.
 
@@ -158,10 +171,14 @@ Sharing your location on social media might seem fun, but it can also reveal whe
 🔐 Why it matters:
 - Keeping your location private helps protect you from stalking, theft, or unwanted attention.
 
+(Aguilar, 2023)
+
 ![image](https://github.com/user-attachments/assets/cfc940b6-3c03-4510-98a1-ea86ba0a189b)
 (O'Donnell, 2021)
 
 # References & Bibliography
+Aguilar, N. (2023, February 22). *You Might Be Giving Up Your Location When You Share Photos on Your iPhone.* CNET. [https://www.cnet.com/tech/mobile/you-might-be-giving-up-your-location-when-you-share-photos-on-your-iphone/](https://www.cnet.com/tech/mobile/you-might-be-giving-up-your-location-when-you-share-photos-on-your-iphone/)
+
 Ashjaee, N. (2021, December 1). Here’s how to make your Instagram profile private. *Lifewire*. [https://www.lifewire.com/make-instagram-account-private-3485850](https://www.lifewire.com/make-instagram-account-private-3485850)
 
 Government of Canada. (2021). Cyber security checklist. Get Cyber Safe. [https://www.getcybersafe.gc.ca/en/resources/cyber-security-checklist?](https://www.getcybersafe.gc.ca/en/resources/cyber-security-checklist?)
