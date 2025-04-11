@@ -9,6 +9,7 @@ Using banking apps can make managing your money easier, but it’s important to 
 
 Some commonly used banking apps include:
 ![image](https://github.com/user-attachments/assets/0bd7268b-302e-4a51-8bea-e66232e2180a)
+(Gohil, 2023)
 
 # 🔐 **Create a Strong Password**
 
@@ -34,6 +35,7 @@ MyDogLoves2Run! or CoffeeAt8AMisBest!
 🔐 Why it matters: A strong password helps keep your personal information safe by making it harder for hackers to access your accounts.
 
 ![image](https://github.com/user-attachments/assets/302e4c5e-86f0-4a9c-b33f-b4a59516901f)
+(Ahmad, 2023)
 
 # 🔐 **Turn On Multi-Factor Authentication (MFA)**
 
@@ -83,10 +85,10 @@ It’s a good habit to check your bank account often—even if you don’t think
 🔐 Why it matters:
 - Checking your account helps you catch fraud early and protect your money.
 
-Example of a bank statement, look for unusual transactions. 
+Example of a bank statement, look for unusual transactions: 
 
 ![image](https://github.com/user-attachments/assets/8a0793b7-6283-4abe-bbce-fbf40788127c)
-
+(Angela, 2022)
 
 # 📧 **Don’t Open Suspicious Emails or Links**
   
@@ -106,6 +108,7 @@ Example of a bank statement, look for unusual transactions.
 - These scams are designed to steal your money or personal information.
 
 ![image](https://github.com/user-attachments/assets/d7510bcc-f1b2-400c-afef-5ef7ac26bd5b)
+(Trevino, 2023)
 
 # 🔒 Secure Your Device with a PIN, Fingerprint, or Face ID
 
@@ -121,21 +124,22 @@ Example of a bank statement, look for unusual transactions.
 🔐 Why it matters:
 - This helps keep your banking apps and personal information safe, even if someone else gets your device.
 
+(Beausoleil, 2023):
 ![image](https://github.com/user-attachments/assets/e9b42a99-35c0-415e-8573-7f2fca6130c3)
 
 # References
-Ahmad, T. (2023, January 17). How to create a strong password . CreativeON. https://creativeon.com/blog/web-security/how-to-create-a-strong-password/ 
+Ahmad, T. (2023, January 17). How to create a strong password . *CreativeON*. [https://creativeon.com/blog/web-security/how-to-create-a-strong-password/](https://creativeon.com/blog/web-security/how-to-create-a-strong-password/) 
 
-Angela. (2022, September 19). Bank statements - how and why to read yours. Wealth Meta. https://www.wealthmeta.com/blog/bank-statements-how-and-why-to-read-yours
+Angela. (2022, September 19). Bank statements - how and why to read yours. *Wealth Meta*. [https://www.wealthmeta.com/blog/bank-statements-how-and-why-to-read-yours](https://www.wealthmeta.com/blog/bank-statements-how-and-why-to-read-yours)
 
-Beausoleil, M. (2023, October 5). It’s been six year, and Touch ID is still superior to Face ID. Medium. https://beausoleil.medium.com/its-been-six-year-and-touch-id-is-still-superior-to-face-id-a15629ce855d
+Beausoleil, M. (2023, October 5). It’s been six year, and Touch ID is still superior to Face ID. *Medium*. [https://beausoleil.medium.com/its-been-six-year-and-touch-id-is-still-superior-to-face-id-a15629ce855d](https://beausoleil.medium.com/its-been-six-year-and-touch-id-is-still-superior-to-face-id-a15629ce855d)
 
-Canadian Centre for Cyber Security. (2020, September 10). How to use online banking securely - ITSAP.00.080. Government of Canada. https://www.cyber.gc.ca/en/guidance/how-use-online-banking-securely-itsap00080
+Canadian Centre for Cyber Security. (2020, September 10). How to use online banking securely - ITSAP.00.080. *Government of Canada*. [https://www.cyber.gc.ca/en/guidance/how-use-online-banking-securely-itsap00080](https://www.cyber.gc.ca/en/guidance/how-use-online-banking-securely-itsap00080)
 
-Communications Security Establishment Canada. (2024). Protecting yourself from identity theft online. https://www.cyber.gc.ca/sites/default/files/protecting-yourself-proteger-vol-identity-theft-online-itsap.00.033-en.pdf
+Communications Security Establishment Canada. (2024). Protecting yourself from identity theft online. [https://www.cyber.gc.ca/sites/default/files/protecting-yourself-proteger-vol-identity-theft-online-itsap.00.033-en.pdf](https://www.cyber.gc.ca/sites/default/files/protecting-yourself-proteger-vol-identity-theft-online-itsap.00.033-en.pdf)
 
-Gohil, T. (2023, October 25). From paper to pixels: The analytical dive into the evolving role of canadian banks. Linkedin. https://www.linkedin.com/pulse/from-paper-pixels-analytical-dive-evolving-role-banks-gohil-cisa-4tqkc/
+Gohil, T. (2023, October 25). From paper to pixels: The analytical dive into the evolving role of Canadian banks. *Linkedin*. [https://www.linkedin.com/pulse/from-paper-pixels-analytical-dive-evolving-role-banks-gohil-cisa-4tqkc/](https://www.linkedin.com/pulse/from-paper-pixels-analytical-dive-evolving-role-banks-gohil-cisa-4tqkc/)
 
-Office of the Privacy Commissioner of Canada. (2018). Protecting your privacy online. Office of the Privacy Commissioner of Canada. https://www.priv.gc.ca/en/privacy-topics/technology/online-privacy-tracking-cookies/online-privacy/protecting-your-privacy-online/
+Office of the Privacy Commissioner of Canada. (2018). Protecting your privacy online. Office of the Privacy Commissioner of Canada. [https://www.priv.gc.ca/en/privacy-topics/technology/online-privacy-tracking-cookies/online-privacy/protecting-your-privacy-online/](https://www.priv.gc.ca/en/privacy-topics/technology/online-privacy-tracking-cookies/online-privacy/protecting-your-privacy-online/)
 
-Trevino, A. (2023, September 22). How to spot a phishing email. Keeper Security. https://www.keepersecurity.com/blog/2023/09/22/how-to-spot-phishing-emails/
+Trevino, A. (2023, September 22). How to spot a phishing email. *Keeper Security*. [https://www.keepersecurity.com/blog/2023/09/22/how-to-spot-phishing-emails/](https://www.keepersecurity.com/blog/2023/09/22/how-to-spot-phishing-emails/)
