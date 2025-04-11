@@ -56,6 +56,6 @@ Luong, K. (2024). What is EMR? Features, examples and popular EMR systems. *Omni
 
 Office of the Privacy Commissioner of Canada. (2023a). 2022-23 survey of Canadians on privacy related issues. [https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04](https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2023/por_ca_2022-23#fig04)
 
-Office of the Privacy Commissioner of Canada. (2023b). File a complaint about a federal institution. https://www.priv.gc.ca/en/report-a-concern/file-a-formal-privacy-complaint/file-a-complaint-about-a-federal-institution/
+Office of the Privacy Commissioner of Canada. (2023b). File a complaint about a federal institution. [https://www.priv.gc.ca/en/report-a-concern/file-a-formal-privacy-complaint/file-a-complaint-about-a-federal-institution/](https://www.priv.gc.ca/en/report-a-concern/file-a-formal-privacy-complaint/file-a-complaint-about-a-federal-institution/)
 
 Ontario. (2004). Personal health information protection act. [https://www.ontario.ca/laws/statute/04p03#BK31](https://www.ontario.ca/laws/statute/04p03#BK31)
