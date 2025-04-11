@@ -4,7 +4,7 @@ title: "Healthcare"
 permalink: /healthcare/
 author_profile: true
 ---
-# ❓ What is Personal Health Information?
+# 🤔 What is Personal Health Information?
 - We understand that medical appointments can be tricky to navigate. It is important to be aware of how your health information is taken by medical health professionals, and how your health information is stored.
 - Understanding privacy rights and privacy policies can be complex. An alarming 23% of Canadians state that they have poor knowledge in knowing how to protect their privacy (Office of the Privacy Commissioner of Canada, 2023a).
 - In Canada, doctors typically enter information about your health onto a computer (Government of Canada, 2024).
@@ -26,12 +26,12 @@ author_profile: true
 # 🇨🇦 Are there privacy laws in Canada that will protect my health information?
 - In short, there are laws that aim to protect privacy. However, they are not perfect. For this reason, it is recommended to stay mindful of the ways in which your health information is being used, and how you can protect your privacy. It is also important to keep in mind that laws may differ depending on the province you live in.
 
-# *Canada's Privacy Act* (Government of Canada, 2021)
+# 🇨🇦 *Canada's Privacy Act* (Government of Canada, 2021)
 - This act is a federal law, which means it applies to all of Canada.
 - It states that if you are a Canadian citizen, or if you are physically within Canada, you have the right to gain access to your personal information that is kept by a federal institution. However, it also states that this request may be denied if it is not beneficial for the individual to read the medical record.
 - If you feel that you have unfairly been denied from accessing your records from an institution, you can file a complaint form by [clicking here](https://www.priv.gc.ca/en/report-a-concern/file-a-formal-privacy-complaint/file-a-complaint-about-a-federal-institution/)
 
-## *Personal Health Information Protection Act* 
+## 🇨🇦 *Personal Health Information Protection Act* 
 - Some important highlights from this act include:
 - It claims that you have the right to withdraw your consent. Meaning, if you give permission for your information to be collected, you have the right to change your mind. However, your information is still allowed to be used *before* you withdrew your consent (Ontario, 2004).
 
@@ -43,7 +43,7 @@ author_profile: true
 - Unfortunately, privacy laws still have a long way to go to ensure that the privacy of every individual is adequately protected. As you can see from above, privacy laws are not perfect.
 - Advocacy groups such as the Canadian Civil Liberties Association are hard at work in reforming privacy law (Canadian Civil Liberties Association, 2025).
 
-# References
+# References & Bibliography
 Canadian Civil Liberties Association. (2025). Privacy law reform - CCLA. [https://ccla.org/our-work/privacy/privacy-law-reform/](https://ccla.org/our-work/privacy/privacy-law-reform/)
 
 Government of Canada. (2024). Data profile: Primary care electronic medical records. [https://www.canada.ca/en/public-health/services/data/profile-primary-care-electronic-medical-records.html#a5](https://www.canada.ca/en/public-health/services/data/profile-primary-care-electronic-medical-records.html#a5)
