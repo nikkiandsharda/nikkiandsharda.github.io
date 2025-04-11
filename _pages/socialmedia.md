@@ -162,8 +162,6 @@ Sharing your location on social media might seem fun, but it can also reveal whe
 (O'Donnell, 2021)
 
 # References & Bibliography
-Omer, F. (n.d.). How to create a strong password. *CreativeON*. [https://creativeon.com/blog/web-security/how-to-create-a-strong-password/](https://creativeon.com/blog/web-security/how-to-create-a-strong-password/)
-
 Ashjaee, N. (2021, December 1). Here’s how to make your Instagram profile private. *Lifewire*. [https://www.lifewire.com/make-instagram-account-private-3485850](https://www.lifewire.com/make-instagram-account-private-3485850)
 
 Government of Canada. (2021). Cyber security checklist. Get Cyber Safe. [https://www.getcybersafe.gc.ca/en/resources/cyber-security-checklist?](https://www.getcybersafe.gc.ca/en/resources/cyber-security-checklist?)
@@ -175,6 +173,8 @@ LaRose, A. (2025). Top 8 Instagram scams to AVOID. Scott Social Marketing. [http
 O’Donnell, A. (2021). How to remove geotags from iPhone pictures. *Lifewire*. [https://www.lifewire.com/remove-geotags-from-pictures-taken-with-your-iphone-2487322](https://www.lifewire.com/remove-geotags-from-pictures-taken-with-your-iphone-2487322)
 
 Office of the Privacy Commissioner of Canada. (2019). Staying safe on social media. [https://www.priv.gc.ca/en/privacy-topics/technology/online-privacy-tracking-cookies/online-privacy/social-media/02_05_d_74_sn/](https://www.priv.gc.ca/en/privacy-topics/technology/online-privacy-tracking-cookies/online-privacy/social-media/02_05_d_74_sn/)
+
+Omer, F. (n.d.). How to create a strong password. *CreativeON*. [https://creativeon.com/blog/web-security/how-to-create-a-strong-password/](https://creativeon.com/blog/web-security/how-to-create-a-strong-password/)
 
 People. (2024, August 22). Profile overview. [https://pcopeople.zendesk.com/hc/en-us/articles/204263114-Profile-Overview](https://pcopeople.zendesk.com/hc/en-us/articles/204263114-Profile-Overview)
 
