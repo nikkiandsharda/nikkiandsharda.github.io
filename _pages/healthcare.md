@@ -10,7 +10,7 @@ author_profile: true
 - In Canada, doctors typically enter information about your health onto a computer (Government of Canada, 2024).
 (Luong, 2024):
 ![doctor Image](../images/doctor.png)
-- Doctors keep personal information about your health, including but not limited to, information about test results, allergies, and prescriptions (Government of Canada, 2024).
+- Doctors keep personal information about your health, including but not limited to, results from medical tests, allergies, and medications (Government of Canada, 2024).
 
 # 🩺 How is this information used?
 - It is important to be aware of third parties who may access this information. Third parties are considered anybody who is not your healthcare provider or yourself.
