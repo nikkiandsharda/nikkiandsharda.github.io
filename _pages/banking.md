@@ -34,6 +34,8 @@ MyDogLoves2Run! or CoffeeAt8AMisBest!
 
 🔐 Why it matters: A strong password helps keep your personal information safe by making it harder for hackers to access your accounts.
 
+(Canadian Centre for Cyber Security, 2020)
+
 ![image](https://github.com/user-attachments/assets/302e4c5e-86f0-4a9c-b33f-b4a59516901f)
 (Omer, n.d.)
 
@@ -57,6 +59,8 @@ MyDogLoves2Run! or CoffeeAt8AMisBest!
 - Test it
 – The system will usually ask you to try logging in again using your second step.
 
+(Canadian Centre for Cyber Security, 2020)
+
 # 📲 **Keep Your Apps and Device Updated**
 
 Updating your phone and apps is important for your safety. Updates often fix security problems that hackers could use to steal your information.
@@ -68,6 +72,8 @@ Updating your phone and apps is important for your safety. Updates often fix sec
 
 🛡️ Why it matters:
 - Updates help protect your personal and financial information from new online threats.
+
+(Canadian Centre for Cyber Security, 2020)
 
 # 👀 **Monitor Your Accounts Regularly**
 
@@ -84,6 +90,8 @@ It’s a good habit to check your bank account often—even if you don’t think
 
 🔐 Why it matters:
 - Checking your account helps you catch fraud early and protect your money.
+
+(Communications Security Establishment Canada, 2024)
 
 Example of a bank statement, look for unusual transactions: 
 
@@ -107,6 +115,8 @@ Example of a bank statement, look for unusual transactions:
 🔒 Why it matters:
 - These scams are designed to steal your money or personal information.
 
+(Office of the Privacy Commissioner of Canada, 2018)
+
 ![image](https://github.com/user-attachments/assets/d7510bcc-f1b2-400c-afef-5ef7ac26bd5b)
 (Trevino, 2023)
 
@@ -123,6 +133,8 @@ Example of a bank statement, look for unusual transactions:
 
 🔐 Why it matters:
 - This helps keep your banking apps and personal information safe, even if someone else gets your device.
+
+(Canadian Centre for Cyber Security, 2020)
 
 ![image](https://github.com/user-attachments/assets/e9b42a99-35c0-415e-8573-7f2fca6130c3)
 (Beausoleil, 2023)
