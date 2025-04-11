@@ -13,7 +13,7 @@ redirect_from:
 - You can also check out the resources tab for further information from scholarly literature, and policy organizations.
 
 # ❓ Who is this toolkit for?
-- We encourage all newcomers to utilize this toolkit, whether they are already in Canada or planning to make a move here in the near future!
+- We encourage all newcomers to utilize this toolkit, whether they are already in Ontario or are planning to make a move here in the near future!
 
 # 📱 Privacy Policy issue
 - As we continue to live in an increasingly digitized world, most of our sensitive and private information are either online or held in the form of electronic records.
